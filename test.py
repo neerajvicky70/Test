@@ -11,5 +11,6 @@ def calc(num1,num2,operation):
         return float(num1) * float(num2)
     elif (operation== '/'):
         return float(num1) / float(num2)
+
 print(calc(num1,num2,operation))
 
