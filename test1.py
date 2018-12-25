@@ -4,3 +4,4 @@ print(data.readline())
 print(data.readlines()[-1])
 data.close()
 
+data.close()
