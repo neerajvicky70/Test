@@ -1,4 +1,4 @@
-num1 = input("enter num1")
+num1 = input("enter num11")
 num2 = input("enter num2")
 operation = input("enter operator")
 def calc(num1,num2,operation):
